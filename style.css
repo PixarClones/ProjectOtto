@@ -9,8 +9,9 @@ ul {
 }
 
 body {
-    color: #000000;
+    color: #FFFFFF;
     font-family: Verdana;
+	background-color: black;
 }
 
 .head {
